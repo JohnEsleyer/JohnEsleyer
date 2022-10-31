@@ -6,7 +6,7 @@ Web and Mobile developer and a computer science student
 
 I am a web and mobile developer. Currently studying computer science at NDMU. My area of research is computer graphics, computer vision, and GANs.
 
-*   🌍  I'm based in Koronadal City, Philippines
+*   🌍  I'm based in Koronadal City, South Cotabato, Philippines
 *   🖥️  See my portfolio at [JohnEsleyer.dev](http://johnesleyer.dev)
 *   ✉️  You can contact me at [ralph@johnesleyer.dev](mailto:ralph@johnesleyer.dev)
 *   🤝  I'm open to collaborating on mobile (flutter) and web (ReactJS, ThreeJS, NodeJS, and Spring Boot REST) projects
