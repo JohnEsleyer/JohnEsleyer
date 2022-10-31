@@ -9,7 +9,11 @@ I am a web and mobile developer. Currently studying computer science at NDMU. My
 *   🌍  I'm based in Koronadal City, South Cotabato, Philippines
 *   🖥️  See my portfolio at [JohnEsleyer.dev](http://johnesleyer.dev)
 *   ✉️  You can contact me at [ralph@johnesleyer.dev](mailto:ralph@johnesleyer.dev)
-*   🤝  I'm open to collaborating on mobile (flutter) and web (ReactJS, ThreeJS, NodeJS, and Spring Boot REST) projects
+*   🛠️  Technical Skills:
+*     * Programming Languages: C++, Python, Go, JavaScript, Dart, Java, SQL,  HTML/CSS, and Rust
+*     * Web Dev Stack: React, Spring, Node.js, Material UI
+*     * Graphics: OpenGL, Three.JS, Godot, Unity 3D
+*     * Other tools: Maven, Linux, Docker, AWS, Git
 *   ⚡  I'm an indie game developer as a hobby.
 
 ### Skills 
