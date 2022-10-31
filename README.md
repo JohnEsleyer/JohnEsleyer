@@ -1,7 +1,7 @@
 Hi 👋 My name is Ralph John Esleyer Policarpio
 ==============================================
 
-Web and mobile developer and a computer science student
+Web and mobile developer
 ---------------------------------------------------
 
 I am a web and mobile developer. Currently studying computer science at NDMU. My area of research is computer graphics, computer vision, and GANs.
