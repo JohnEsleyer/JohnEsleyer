@@ -10,8 +10,8 @@ I am a web and mobile developer. Currently studying computer science at NDMU. My
 *   🖥️  See my portfolio at [JohnEsleyer.dev](http://johnesleyer.dev)
 *   ✉️  You can contact me at [ralph@johnesleyer.dev](mailto:ralph@johnesleyer.dev)
 *   🛠️  Technical Skills:
-*     * Programming Languages: C++, Python, Go, JavaScript, Dart, Java, SQL,  HTML/CSS, and Rust
-*     * Web Dev Stack: React, Spring, Node.js, Material UI
+       * Programming Languages: C++, Python, Go, JavaScript, Dart, Java, SQL,  HTML/CSS, and Rust
+       * Web Dev Stack: React, Spring, Node.js, Material UI
 *     * Graphics: OpenGL, Three.JS, Godot, Unity 3D
 *     * Other tools: Maven, Linux, Docker, AWS, Git
 *   ⚡  I'm an indie game developer as a hobby.
