@@ -1,10 +1,10 @@
 Hi 👋 My name is Ralph John Esleyer Policarpio
 ==============================================
 
-Web and mobile developer
+Aspiring Web and mobile developer
 ---------------------------------------------------
 
-I am a web and mobile developer. Currently studying computer science at NDMU. My area of research is computer graphics, computer vision, and GANs.
+I am an aspiring web and mobile developer. Currently studying computer science at NDMU. My area of research is computer graphics, computer vision, and GANs.
 
 *   🌍  I'm based in Koronadal City, South Cotabato, Philippines
 *   🖥️  See my portfolio at http://johnesleyer.dev
