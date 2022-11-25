@@ -1,4 +1,4 @@
-Hi 👋 My name is Ralph John Esleyer Policarpio
+Hi My name is Ralph John Esleyer Policarpio
 ==============================================
 
 Aspiring Web and Mobile Developer
