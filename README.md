@@ -10,9 +10,9 @@ I am an aspiring web and mobile developer. Currently studying computer science a
 *   🖥️  See my portfolio at http://johnesleyer.dev
 *   ✉️  You can contact me at [ralph@johnesleyer.dev](mailto:ralph@johnesleyer.dev)
 *   🛠️  Technical Skills:
-       * Programming Languages: C++, Python, Go, JavaScript, Dart, Java, SQL,  HTML/CSS, and Rust
+       * Programming Languages: C++, Python, Go, JavaScript, Dart, Java, SQL,  and HTML/CSS
        * Web Dev Stack: React, Spring, Node.js, Material UI
-       * Graphics: OpenGL, Three.JS, Godot, Unity 3D
+       * Graphics: OpenGL, Three.JS, Godot
        * Other tools: Maven, Linux, Docker, AWS, Git
 *   ⚡  I'm an indie game developer as a hobby.
 
