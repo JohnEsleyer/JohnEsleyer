@@ -1,7 +1,7 @@
 Hi My name is Ralph John Esleyer Policarpio
 ==============================================
 
-Aspiring Web and Mobile Developer
+Aspiring Web and Mobile Developer from Philippines!
 ---------------------------------------------------
 
 I am an aspiring web and mobile developer. Currently studying computer science at NDMU. I love learning concepts at its lowest level and reverse engineering programs that sparks my interest. My area of research is computer graphics, computer vision, and GANs.
