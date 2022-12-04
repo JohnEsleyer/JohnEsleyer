@@ -6,7 +6,7 @@ Hi My name is Ralph John Esleyer Policarpio
 Aspiring Web and Flutter Developer from the Philippines!
 ---------------------------------------------------
 
-I am an aspiring web and mobile developer. Currently studying computer science at NDMU. I love learning concepts at its lowest level and reverse engineering programs that sparks my interest. My area of research is computer graphics, computer vision, and GANs. 
+I am an aspiring web and mobile developer. Currently studying computer science at NDMU. I love learning concepts at its lowest level and reverse engineering programs that sparks my interest. I am passionate with computer graphics, computer vision, and GANs. 
 
 *   🌍  I'm based in Koronadal City, South Cotabato, Philippines
 *   🖥️  See my portfolio at http://johnesleyer.dev
