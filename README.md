@@ -13,7 +13,7 @@ I am an aspiring software engineer. Currently studying computer science at NDMU.
 *   ✉️  You can contact me at [ralph@johnesleyer.dev](mailto:ralph@johnesleyer.dev)
 *   🛠️  Technical Skills:
        * Programming Languages: C++, Python, Go, JavaScript, Dart, Java, SQL,  and HTML/CSS
-       * Web Dev Stack: React, Spring Boot, Node.js, Material UI
+       * Web Development Tech Stack: React, Angular, Spring Boot, Node.js, Material UI, Tailwind CSS, 
        * Graphics: OpenGL, Three.JS, Godot
        * Other tools: Maven, Linux, Docker, AWS, Git
 *   ⚡  I'm an indie game developer as a hobby.
