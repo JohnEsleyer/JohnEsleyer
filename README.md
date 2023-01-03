@@ -37,7 +37,6 @@ I am an aspiring software engineer. Currently studying computer science at NDMU.
 <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" width="36" height="36" alt="MaterialUI">
 </p>
 <p>
-<img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" width="36" height="36" alt="Firebase">
 <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="36" height="36" alt="Typescript">
 <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="36" height="36" alt="Spring Boot">
 <img src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" width="36" height="36" alt="Go">
