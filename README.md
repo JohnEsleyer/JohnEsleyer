@@ -15,7 +15,7 @@ I am an aspiring software engineer. Currently studying computer science at NDMU.
        * Web Development Tech Stack: React, Angular, Spring Boot, Node.js, Material UI, Tailwind CSS, 
        * Graphics: OpenGL, Three.JS, Godot
        * Other tools: Gradle, Linux, Docker, AWS, Git
-*   ⚡  I create games as a hobby.
+*   ⚡  I am interested in computer graphics (Graphics engine, CG Simulations, and more).
 
 ### Tech Stack 
 <p align="left">
