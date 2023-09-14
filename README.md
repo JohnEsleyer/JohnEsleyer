@@ -12,7 +12,7 @@ I'm Ralph John Policarpio, a passionate and innovative software developer on a m
 *   ✉️  You can contact me at [ralph@johnesleyer.dev](mailto:ralph@johnesleyer.dev)
 *   🛠️  Technical Skills:
        * Programming Languages: C++, Python, Go, JavaScript/TypeScript, Dart, Java, SQL,  and HTML/CSS
-       * Web Development Tech Stack: React, Spring Boot, Node.js, Material UI, Tailwind CSS, 
+       * Web Development Tech Stack: React, Next.js, Spring Boot, Node.js, Material UI, Tailwind CSS, 
        * Other tools: Linux, Docker, AWS, Git
 
 
