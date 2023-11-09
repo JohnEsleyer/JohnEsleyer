@@ -12,7 +12,7 @@ I'm Ralph John Policarpio, a passionate software hobbyist on a mission to turn l
 *   ✉️  You can contact me at [ralph@johnesleyer.dev](mailto:ralph@johnesleyer.dev)
 *   🛠️  Technical Skills:
        * Programming Languages: C++, Python, Go, JavaScript/TypeScript, Dart, Java, SQL,  and HTML/CSS
-       * Web Development Tech Stack: React, Next.js, Spring Boot, Node.js, Material UI, Tailwind CSS, 
+       * Web Development Tech Stack: React, Next.js, Spring Boot, Django, Node.js, Material UI, Tailwind CSS, 
        * Other tools: Linux, Docker, AWS, Git
 
 
@@ -39,5 +39,6 @@ I'm Ralph John Policarpio, a passionate software hobbyist on a mission to turn l
 <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="36" height="36" alt="VsCode">
 <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="36" height="36" alt="Postman">
 <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="36" height="36" alt="NodeJS">
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
