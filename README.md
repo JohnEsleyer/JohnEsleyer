@@ -10,7 +10,7 @@ I'm Ralph John Policarpio, a passionate software hobbyist on a mission to turn l
 
 *   🌍  I'm based in Koronadal City, South Cotabato, Philippines
 *   🖥️  See my portfolio at http://johnesleyer.dev
-*   ✉️  You can contact me at [ralph@johnesleyer.dev](mailto:ralph@johnesleyer.dev)
+*   ✉️  You can contact me at [ralph@johnesleyer.dev](mailto: johnesleyer@gmail.com)
 *   🛠️  Technical Skills:
        * Programming Languages: C++, Python, Go, JavaScript/TypeScript, Dart, Java, SQL,  and HTML/CSS
        * Web Development Tech Stack: React, Next.js, Spring Boot, Django, Node.js, Material UI, Tailwind CSS, 
