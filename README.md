@@ -6,7 +6,7 @@ Hi My name is Ralph John Esleyer Policarpio
 Software Developer from the Philippines!
 ---------------------------------------------------
 
-I'm Ralph John Policarpio, a passionate software hobbyist on a mission to turn lines of code into transformative solutions.
+I'm Ralph John Policarpio, a passionate software developer on a mission to turn lines of code into transformative solutions.
 
 *   🌍  I'm based in Koronadal City, South Cotabato, Philippines
 *   🖥️  See my portfolio at http://johnesleyer.dev
