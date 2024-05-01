@@ -9,8 +9,8 @@ Software Developer from the Philippines!
 I'm Ralph John Policarpio, a passionate software developer on a mission to turn lines of code into transformative solutions.
 
 *   🌍  I'm based in Koronadal City, South Cotabato, Philippines
-*   🖥️  See my portfolio at http://johnesleyer.dev
-*   ✉️  You can contact me at ralph@johnesleyer.dev
+*   🖥️  See my portfolio at http://ralphpolicarpio.com
+*   ✉️  You can contact me at contact@ralphpolicarpio.com
 *   🛠️  Technical Skills:
        * Programming Languages: C++, Python, Go, JavaScript/TypeScript, Dart, Java, SQL,  and HTML/CSS
        * Web Development Tech Stack: React, Next.js, Spring Boot, Django, Node.js, Material UI, Tailwind CSS, 
