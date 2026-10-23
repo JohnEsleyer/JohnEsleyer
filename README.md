@@ -16,5 +16,5 @@ The following are tools and learning projects I built for personal use and learn
 - [cero](https://github.com/JohnEsleyer/cero) - Cero is an offline-first, block-based markdown journal. It supports nested pages and syncs in real-time over local Wi-Fi
 - [goscript](https://github.com/JohnEsleyer/goscript) - An embeddable scripting language with Go syntax, written in pure Rust, designed for game engines.
 - [groot](https://github.com/JohnEsleyer/groot) - Fast-iteration 2D/3D game engine powered by wgpu and GoScript. Data-driven architecture with hot-reloadable scripts, RON prefabs, and a native plugin system.
-- 
+
 
