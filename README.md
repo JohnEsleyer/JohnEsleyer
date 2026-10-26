@@ -1,9 +1,8 @@
 
 ![ca262e0354eea311c41134c3e4bc3bc2](https://github.com/JohnEsleyer/JohnEsleyer/assets/66754038/b3b056b1-d79a-4b9d-9e25-657b84f703f8)
 
-Contact me at ralphjohnpolicarpio@outlook.com
 
-The following are tools and learning projects I built for personal use and learning purposes only (This list helps me keep track of my projects easier. Feel free to view or ignore them):
+Note: The following list helps me keep track of my projects easier. Feel free to view or ignore them. Most of the projects are built using AI and I am not pretending they are not. I repeat: the tools below are not intended for general use, they are solely for my own use, so please do not expect long-term commitments.
 
 - [skiff](https://github.com/JohnEsleyer/skiff) - zero-agent desktop deployment engine for low-end VPSs. Wails (Go) + React app that builds locally and ships atomic releases over plain SSH.
 - [bifrost](https://github.com/JohnEsleyer/bifrost) - Zero-lag, non-interactive SSH gateway that lets AI agents run commands on a remote VPS
